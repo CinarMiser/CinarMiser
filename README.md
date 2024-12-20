@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **C and C++**
 
-- 📫 How to reach me **cinarcinarmas19@gmail.com**
 
 - About Me: **I am mostly into game development**
 
