@@ -1,5 +1,5 @@
 <h1 align="center">Hello! i am Çınar Miser</h1>
-<h3 align="center">I am a mechanical engineer who is into coding</h3>
+<h3 align="center">I am a mechanical engineering student who is into coding</h3>
 
 - 🌱 I’m currently learning **C and C++**
 
