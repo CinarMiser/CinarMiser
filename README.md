@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **C and C++**
 
 
-- About Me: **I am mostly into game development**
+- About Me: **I am mostly into game development and mechanical engineering software**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
